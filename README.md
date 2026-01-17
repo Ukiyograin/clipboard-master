@@ -149,10 +149,12 @@ cd clipboard-master
 ```
 
 ### 开发规范
-```代码风格: Rust使用rustfmt，C#使用.editorconfig
+```
+代码风格: Rust使用rustfmt，C#使用.editorconfig
 提交信息: 遵循Conventional Commits规范
 文档: 所有公共API需要文档注释
-测试: 新功能需要包含测试用例```
+测试: 新功能需要包含测试用例
+```
 
 ---
 
